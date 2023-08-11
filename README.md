@@ -6,7 +6,7 @@
 
 # Description
 **Caption Embedder**
-1.Upload an image.
+1. Upload an image.
 2. Choose caption type – Select Caption OR Enter/Edit Caption (Select one of the given captions or enter your own caption)
 3. Select an alignment for the caption.
 4. Enter the number of letters to be displayed in each line.
