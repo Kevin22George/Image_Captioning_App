@@ -5,6 +5,10 @@
 • To create the most efficient Caption Embedder feature for users that can fulfil all their needs when embedding a caption onto an image.
 
 ## Description
+• I plan on implementing my project to users that can benefit from it such as people with visual impairments which brings efficiency in identifying images.
+• To allow users embed a caption onto an image with customizable tools available to experiment on and post it on their socials or for any other personal/business use.
+
+## Usage
 **Caption Embedder**
 1. Upload an image.
 2. Choose caption type – Select Caption OR Enter/Edit Caption (Select one of the given captions or enter your own caption)
@@ -22,16 +26,17 @@
 
 **\*FUTURE UPDATES WILL BE RELEASED\***
 
-https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images
+## Dataset
+Images and captions link - https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images
 
-## Screenshots
-### - Sign In
-![](https://user-images.githubusercontent.com/104430325/200963503-c402ae2e-d8f4-4352-a022-3b7e4218d693.jpg)
-### - Create An Account/Sign Up
-![Sign up page](https://user-images.githubusercontent.com/104430325/200963550-6da2a380-2d4b-4198-881b-6c10a474f8b3.jpg)
-### - Success (1<sup>st</sup> half)
-![Success page - first half of the page](https://user-images.githubusercontent.com/104430325/200963563-2051174b-2dce-4500-896c-d7648d6b1653.jpg)
-### - Success (2<sup>nd</sup> half)
-![Sucess page - second half of the page](https://user-images.githubusercontent.com/104430325/200963570-9a2d78fe-5693-4a52-9edc-b71df7f43164.jpg)
-### - Main (Eve)
-![Main page - Eve](https://user-images.githubusercontent.com/104430325/201472603-f7ec81c7-df3e-464c-a977-602969e50ab5.jpg)
+## Screenshots - Pages
+### - Home
+![Home page - first half of the page](https://github.com/Kevin22George/Virtual_Desktop_Assistant_Eve/assets/104430325/9799fcef-ee96-468c-a4e2-747c6c5b7c7a)
+![Home page - second half of the page](https://github.com/Kevin22George/Virtual_Desktop_Assistant_Eve/assets/104430325/16b9eac6-b097-4ddd-95c8-f53238cbabbe)
+![Home page - third half of the page](https://github.com/Kevin22George/Virtual_Desktop_Assistant_Eve/assets/104430325/46fa5283-6ef6-4271-8e77-47e6f236d7d8)
+### - Caption Embedder 
+![Caption Embedder page - first half of the page](https://github.com/Kevin22George/Virtual_Desktop_Assistant_Eve/assets/104430325/01abd408-d4f6-4ba7-ad1e-3702678e10eb)
+![Caption Embedder page - second half of the page](https://github.com/Kevin22George/Virtual_Desktop_Assistant_Eve/assets/104430325/8ae818c1-e5d1-4e96-9cdd-7468e33e6228)
+### - Caption Generator
+![Caption Generator page - first half of the page](https://github.com/Kevin22George/Virtual_Desktop_Assistant_Eve/assets/104430325/9124ad80-dca3-4e32-a3b1-f75cf0b9ed59)
+![Caption Generator page - second half of the page](https://github.com/Kevin22George/Virtual_Desktop_Assistant_Eve/assets/104430325/fb9fc77f-558d-4fde-a6c0-95b94386015f)
